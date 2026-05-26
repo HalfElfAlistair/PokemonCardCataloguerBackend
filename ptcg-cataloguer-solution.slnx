@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/ptcg-cataloguer-storage-api/">
+    <Project Path="ptcg-cataloguer-storage-api/Cataloguer.csproj" />
+  </Folder>
+  <Project Path="ptcg-cataloguer-storage-api.tests/ptcg-cataloguer-storage-api.tests.csproj" />
+</Solution>
